@@ -1,5 +1,6 @@
 # Snake-simple-demo-Java-Android
-Simple snake demo. Made using Java in Android Studio (no external libraries).
+
+Made an extremely bare bones snake game while checking out Java in Android Studio.
 
 ![](SnakeDemo/SnakeDemoImage.png)
 
